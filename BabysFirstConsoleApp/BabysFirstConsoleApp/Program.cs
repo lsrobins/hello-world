@@ -12,6 +12,8 @@ namespace BabysFirstConsoleApp
         {
             Console.WriteLine("Hello World");
             Console.ReadLine();
-        }
+            public int MyProperty { get; set; }
+
+    }
     }
 }
