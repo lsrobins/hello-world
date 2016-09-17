@@ -11,6 +11,7 @@ namespace StudentClassHomework
 
         static void Main(string[] args)
         {
+               
             // Create new student object
             Student s1 = new Student();
 
@@ -36,6 +37,7 @@ namespace StudentClassHomework
             s1.getInfo();
 
             Console.ReadLine();
+
         }
     }
 }
